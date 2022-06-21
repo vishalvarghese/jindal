@@ -1,0 +1,269 @@
+body
+{
+margin: 0%;
+}
+.header
+{
+    background: #fff;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 20%);
+
+    font-family: "Montserrat";
+
+    width: 100%px;
+    height: 108px;
+}
+.headone
+{
+    margin-top: 11px;
+    float: left;
+    margin-left: 69px;
+}
+.headtwo
+{
+    float: right;
+    margin-right: 84px;
+}
+
+.selectstyle
+{
+    font-size: 16px;
+    color: rgb(164, 161, 161);
+    border: aliceblue;
+}
+#sideways
+{
+    display:inline-block;
+
+    
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 26px;
+
+
+    color: rgb(176, 170, 170);
+     
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+
+.bodybelowheader
+{
+    background-image: url(https://i.ibb.co/pW0J5PH/Web-capture-20-6-2022-111131-www-jindalsteels-co-in.jpg
+    );
+    background-size: cover;
+    width: 100%px;
+    height: 634px;
+}
+.spaceadjusthead
+{
+    width: 100%px;
+    height: 150px;
+}
+
+.insideboxofbody
+{
+    margin-right: 75px;
+    background-color: #1d4c8d;
+    width: 89%px;
+    height: 277px;
+    margin-left: 75px;
+    margin-top: 347px;
+}
+.sizepinsideboxofbody
+{  cursor: pointer;
+     color: white;
+    font-size: 35px;
+    font-weight: 700;
+    font-family: sans-serif;
+    padding-top: 63px;
+    padding-left: 47px;
+}
+.buttoninsideboxofbody
+{
+    text-align: center;
+    height: 48px;
+    width: 206px;
+    line-height: 50px;
+    border: 1px solid;
+    border-radius: 50px;
+
+    font-family: system-ui;
+    font-size: 22px;
+    color:white;
+    margin-right: 86px;
+    margin-top: -77px;
+  float:right;  
+}
+.yellowbox
+{
+    background-color:#f1c40f;
+    width: 100%px;
+    height: 282px;
+}
+.yellowbox1
+{
+    font-family: system-ui;
+    margin-left: 55px;
+    margin-top: 85px;
+    float: left;
+}
+.yellowbox2
+{  font-family: system-ui;
+    line-height: 6px;
+    font-size: 33px;
+    float: left;
+    color: white;
+    font-weight: 600;
+    margin-top: 67px;
+    margin-left: 241px;
+}
+.psizeadjust
+{
+    font-family: system-ui;
+    font-size: 21px;
+    font-weight: 100;
+}
+.yellowbox3
+{
+    font-family: system-ui;
+    line-height: 6px;
+    font-size: 33px;
+    float: left;
+    color: white;
+    font-weight: 600;
+    margin-top: 67px;
+    float: left;
+    margin-left: 114px;
+}
+.yellowbox4
+{
+    
+    
+    font-family: system-ui;
+    line-height: 6px;
+    font-size: 33px;
+    float: left;
+    color: white;
+    font-weight: 600;
+    margin-top: 67px;
+    float: left;
+    margin-left: 114px;
+    float: left;
+    color: white;
+}
+.productimgbox
+{  font-size: 20px;
+    color: white;
+     background-color:#213047; 
+    width:100%px;
+    height: 761px;
+    margin-top:-20px; 
+    padding-left: 71px;
+}
+.textinproductbox
+{
+    font-size: 25px;
+    width: 100%px;
+    height: 100px;
+    margin-top: -25px;
+    padding-top: 25px;
+    padding-left: 438px;
+}
+.image1
+{
+    float:left;
+}
+.image2
+{
+    float:left; 
+}
+.image3
+{
+    float:left;
+}
+.image5
+{
+    float:left;
+    margin-top: -5px;
+}
+.image4
+{
+    float:left;
+}
+.image6
+{
+    float:left;
+    margin-top: -5px;
+}
+.image7
+{
+    float:left;
+    margin-top: -5px;
+}
+.image8
+{
+    float:left;
+    margin-top: -5px;
+}
+.footer
+{
+    padding-top: 110px;
+    font-size: 10px;
+    font-family: system-ui;
+    height: 367px;
+    background-color: rgb(49, 59, 72);
+}
+
+.foot1
+{
+    margin-left: 74px;
+    color: white;
+    float: left;
+    width: 333px;
+    height: 450px;
+}
+.foot2
+{
+    margin-left: 33px;
+    color: white;
+    float: left;
+    width: 300px;
+    height: 450px;
+}
+.foot3
+{
+    margin-left: 131px;
+    color: white;
+    float: left;
+    width: 306px;
+    height: 450px;
+}
+.footp1
+{
+    
+    font-family: system-ui;
+    font-size: 16px;
+}
+.footp2
+{
+    line-height: .75; 
+    font-family: system-ui;
+    font-size: 16px;
+}
+.belowfooter
+{  margin-top: -83px;
+    background-color: rgb(33, 48, 71);
+    height: 58px;
+    color: rgb(238, 238, 238);
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+    padding-left: 70px;
+    padding-top: 7px;
+    float: left;
+    width: 1279px;
+    }
